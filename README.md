@@ -1,3 +1,3 @@
-I am Sharafat Sadin. Author this project
-<dr>
-This is a simple flutter quiz project
+I am Sharafat Sadin. Author this project.
+<br>
+This is a simple flutter quiz project.
