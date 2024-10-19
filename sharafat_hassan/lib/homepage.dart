@@ -57,7 +57,7 @@ class HomePageDesign extends StatelessWidget {
                   child: Icon(
                     Icons.notifications,
                     color: Colors.black,
-                    size: 30,
+                    size: 50,
                   ),
                 )
               ],
